@@ -81,3 +81,12 @@ header {
 }
 
 /*navigation for zen garden site*/
+.cd-primary-nav {
+    a:link {
+      color: $color-5;
+      background-color: $color-1;
+    }
+    a:hover {
+      background-color: $color-2;
+    }
+}
